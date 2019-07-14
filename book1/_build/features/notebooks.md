@@ -1,5 +1,5 @@
 ---
-interact_link: content/C:\OpenRepo\pysal\pysalfoss4g19\docs\content\features/notebooks.ipynb
+interact_link: content/C:\OpenRepo\pysal\pysalfoss4g19\book1\content\features/notebooks.ipynb
 kernel_name: python3
 has_widgets: false
 title: 'Jupyter notebooks'
@@ -95,7 +95,7 @@ ax.legend(custom_lines, ['Cold', 'Medium', 'Hot']);
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](C%3A/OpenRepo/pysal/pysalfoss4g19/docs/_build/images/features/notebooks_2_0.png)
+![png](C%3A/OpenRepo/pysal/pysalfoss4g19/book1/_build/images/features/notebooks_2_0.png)
 
 </div>
 </div>
@@ -134,7 +134,7 @@ ax.set_axis_off()
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](C%3A/OpenRepo/pysal/pysalfoss4g19/docs/_build/images/features/notebooks_5_0.png)
+![png](C%3A/OpenRepo/pysal/pysalfoss4g19/book1/_build/images/features/notebooks_5_0.png)
 
 </div>
 </div>
@@ -169,7 +169,7 @@ ax.set_axis_off()
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](C%3A/OpenRepo/pysal/pysalfoss4g19/docs/_build/images/features/notebooks_7_0.png)
+![png](C%3A/OpenRepo/pysal/pysalfoss4g19/book1/_build/images/features/notebooks_7_0.png)
 
 </div>
 </div>
